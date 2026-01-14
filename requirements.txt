@@ -1,0 +1,9 @@
+aiohttp
+pandas
+python-dotenv
+sqlalchemy
+duckdb
+parsel
+simhash
+tqdm
+bs4
